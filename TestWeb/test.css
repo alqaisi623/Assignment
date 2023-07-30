@@ -25,10 +25,11 @@
     padding: 20px;
     margin-bottom: 20px;
     position: relative;
+    border-radius: 20px;
   }
   
   .section-title {
-    
+    border-radius: 20px;
     position: absolute;
     top: 0;
     right: 0;
